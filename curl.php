@@ -20,7 +20,7 @@
           }
           curl_setopt($curl, CURLOPT_URL, $url);
           curl_setopt($curl, CURLOPT_HTTPHEADER, array(
-              'Authorization: 0BT0QyiBN3BStUoUk6E',
+              'Authorization: xxxxxxxxxxxxxxxxx',
               'Content-Type: application/json',
           ));
 
